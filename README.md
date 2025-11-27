@@ -1,9 +1,3 @@
-# 👋 Hi, I'm  **Liu Yang , Test Development Engineer**
-
-Passionate about building robust backend systems, efficient test automation frameworks, and scalable deployment pipelines.
-
----
-
 ## 🛠️ **Tech Stack**
 
 **Backend**  
@@ -21,5 +15,3 @@ Passionate about building robust backend systems, efficient test automation fram
 
 - 📧 **Email:** zlkpo@hotmail.com
 
----
-**Thank you for visiting my profile! If you like my work, please give me a Star ⭐️!**
